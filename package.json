@@ -1,0 +1,21 @@
+{
+  "name": "modificacion-de-la-pagina-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@nuxt/http": "0.6.4",
+    "@nuxt/vite-builder": "3.0.0-rc.3",
+    "@nuxtjs/vuetify": "1.12.3",
+    "nuxt": "^2.15.0"
+  },
+  "keywords": []
+}
